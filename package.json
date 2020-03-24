@@ -19,8 +19,7 @@
     "homepage": "https://github.com/soniakp89/FriendFinder",
     "dependencies": {
       "express": "^4.17.1",
-      "path": "^0.12.7"
-      "heroku": "^13.1.0  
+      "path": "^0.12.7"  
     },
     "engines": {
     "node": "13.1.0"
